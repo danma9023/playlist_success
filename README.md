@@ -3,6 +3,7 @@
 What makes a playlist successful?
 
 ## File Structure 
+```
 .
 ├── successful_playlist_presentation.ipynb                   # code base for the project 
 ├── long_term_success_summary.csv                    # summary table on long term success
@@ -10,7 +11,7 @@ What makes a playlist successful?
 ├── pca_results.csv                    # summary on PCA clustering 
 ├── playlist_by_music_type.csv                   # playlist volume summary on music categories
 └── README.md
-
+```
 ## Roadmap
 1. Data exploration 
 2. Success definition 
